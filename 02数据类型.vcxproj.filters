@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="05转义字符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06字符串型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="07布尔数据类型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08数据的输入.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="09运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10算术运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11递增递减运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12赋值运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13比较运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="14逻辑运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15选择结构.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="16多行if语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17多条件的if语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18嵌套if语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="19嵌套案例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="20三目运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="21switch语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="22while循环语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="23循环结构案例_猜数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24do_while循环.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25水仙花数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="26for循环.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="27循环案例-敲桌子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="28嵌套循环.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="29打印乘法表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="30跳转语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="31continue跳转语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="32goto跳转语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="arrayone.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="string.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="instr1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="strtype2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="strtype3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="33数组元素逆置.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="34冒泡排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="strings.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="instr1a.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="instr2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="instr3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="numstr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="strstype1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="strtype4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="structur.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="assgn_st.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="arrstruc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="address.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="init_ptr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="use_new.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="arraynew.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="addpntrs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ptrstr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="newstrct.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="delete.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mixtypes.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="formore.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="block.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="statement_blocks.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="forstr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wating.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="textin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="nested.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="if.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ifelse.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="or.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="and.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="outfile.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="getline.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sumafile.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="calling.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="protos.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="twoarg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="arrfun1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="acm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="arrfun2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="arrfun3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="arrfun4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="strfun.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="strgback.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="travel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="strctfun.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="strctptr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="topfive.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="arrobj.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="snakegame.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
